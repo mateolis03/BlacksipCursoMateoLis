@@ -1,0 +1,33 @@
+{
+    "image#image-1" : {
+        "props": {
+            "src": "https://i.ibb.co/vZxW7Vk/delivery-truck.png",
+            "maxHeight": 55
+        }
+    },
+    "image#image-2" : {
+    "props": {
+        "src": "https://i.ibb.co/12NwGZr/padlock.png",
+        "maxHeight": 50
+    }
+    },
+    "image#image-3" : {
+        "props": {
+            "src": "https://i.ibb.co/qDr3fbF/price-tag.png",
+            "maxHeight": 50
+        }
+        },
+     "image#image-4" : {
+    "props": {
+        "src": "https://i.ibb.co/262k7cn/map.png",
+        "maxHeight": 50
+    }
+    },
+      "image#image-5" : {
+    "props": {
+        "src": "https://i.ibb.co/6ZDyrv6/money.png",
+        "maxHeight": 50
+    }
+    }
+    
+}

@@ -1,0 +1,32 @@
+{
+    "rich-text#texto-1": {
+        "props": {
+            "text": "Entregas en **45 min**",
+            "textColor": "action-primary"
+        }
+    },
+    "rich-text#texto-2": {
+        "props": {
+            "text": "Compra **fácil y segura**",
+            "textColor": "action-primary"
+        }
+    },
+    "rich-text#texto-3": {
+        "props": {
+            "text": "Mejores precios y **ofertas**",
+            "textColor": "action-primary"
+        }
+    },
+    "rich-text#texto-4": {
+        "props": {
+            "text": "**Seguimiento** de tus pedidos",
+            "textColor": "action-primary"
+        }
+    },
+    "rich-text#texto-5": {
+        "props": {
+            "text": "Pago **online y contra entrega**",
+            "textColor": "action-primary"
+        }
+    }
+}

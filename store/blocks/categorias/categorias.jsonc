@@ -1,0 +1,62 @@
+{
+    "flex-layout.col#subtitulo":{
+        "children": [
+            "rich-text#subtitulo-1",
+            "rich-text#subtitulo-2"
+        ],
+        "props": {
+            "blockClass":"subtitulo"
+        }
+    },
+    "flex-layout.col#categoria-1":{
+        "children": [
+           "image#imagen-1",
+           "rich-text#texto-categoria-1"
+        ]
+    },
+    "flex-layout.col#categoria-2":{
+        "children": [
+            "image#imagen-2",
+            "rich-text#texto-categoria-2"
+        ]
+    },
+    "flex-layout.col#categoria-3":{
+        "children": [
+            "image#imagen-3",
+            "rich-text#texto-categoria-3"
+        ]
+    },
+    "flex-layout.col#categoria-4":{
+        "children": [
+            "image#imagen-4",
+            "rich-text#texto-categoria-4"
+        ]
+    },
+    "flex-layout.col#categoria-5":{
+        "children": [
+            "image#imagen-5",
+            "rich-text#texto-categoria-5"
+        ]
+    },
+    "flex-layout.col#categoria-6":{
+        "children": [
+            "image#imagen-6",
+            "rich-text#texto-categoria-6"
+        ]
+    },
+    "flex-layout.col#categoria-7":{
+        "children": [
+            "image#imagen-7",
+            "rich-text#texto-categoria-7"
+        ]
+    },
+    "flex-layout.col#categoria-8":{
+        "children": [
+            "image#imagen-8",
+            "rich-text#texto-categoria-8"
+        ]
+    }
+}
+
+
+

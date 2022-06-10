@@ -1,0 +1,72 @@
+{
+    "rich-text#subtitulo-1": {
+        "props":{
+            "text": "##### QUÉ ESTÁS BUSCANDO?",
+            "textColor": "action-primary",
+            "textAlignment":"LEFT"
+        }
+    },
+    "rich-text#subtitulo-2": {
+        "props":{
+            "text": "VER TODO",
+            "textColor": "warning",
+            "textAlignment": "LEFT"
+        }
+    },
+    "rich-text#texto-categoria-1": {
+        "props":{
+            "text": "**Cuidado Capilar**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-2": {
+        "props":{
+            "text": "**Cuidado Corporal**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-3": {
+        "props":{
+            "text": "**Cuidado Facial**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-4": {
+        "props":{
+            "text": "**Maquillaje**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-5": {
+        "props":{
+            "text": "**Cuidado Bebé**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-6": {
+        "props":{
+            "text": "**Cuidado Acné**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-7": {
+        "props":{
+            "text": "**Cuidado Dental**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    },
+    "rich-text#texto-categoria-8": {
+        "props":{
+            "text": "**Cuidado de uñas**",
+            "textColor": "action-primary",
+            "textAlignment": "CENTER"
+        }
+    }
+}

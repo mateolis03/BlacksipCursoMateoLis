@@ -1,0 +1,72 @@
+{
+    "flex-layout.col#promesa-1": {
+        "children": [
+            "flex-layout.row#promesa-1"
+        ]
+    },
+    "flex-layout.col#promesa-2": {
+        "children": [
+            "flex-layout.row#promesa-2"
+        ]
+    },
+    "flex-layout.col#promesa-3": {
+        "children": [
+            "flex-layout.row#promesa-3"
+        ]  
+},
+    "flex-layout.col#promesa-4": {
+        "children": [
+            "flex-layout.row#promesa-4"
+        ]
+    },
+    "flex-layout.col#promesa-5": {
+        "children": [
+            "flex-layout.row#promesa-5"
+        ]
+    },
+    "flex-layout.row#promesa-1": {
+        "children": [
+            "image#image-1",
+            "rich-text#texto-1"
+        ],
+        "props": {
+            "blockClass": "promesas"
+        }
+    },
+    "flex-layout.row#promesa-2": {
+        "children": [
+            "image#image-2",
+            "rich-text#texto-2"
+        ],
+        "props": {
+            "blockClass": "promesas"
+        }
+    },
+    "flex-layout.row#promesa-3": {
+        "children": [
+            "image#image-3",
+            "rich-text#texto-3"
+        ],
+        "props": {
+            "blockClass": "promesas"
+        }
+    },
+    "flex-layout.row#promesa-4": {
+        "children": [
+            "image#image-4",
+            "rich-text#texto-4"
+        ],
+        "props": {
+            "blockClass": "promesas"
+        }
+    },
+    "flex-layout.row#promesa-5": {
+        "children": [
+            "image#image-5",
+            "rich-text#texto-5"
+        ],
+        "props": {
+            "blockClass": "promesas"
+        }
+    }
+}

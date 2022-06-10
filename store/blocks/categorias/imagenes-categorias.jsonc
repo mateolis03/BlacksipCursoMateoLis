@@ -1,0 +1,50 @@
+{
+    "image#imagen-1": {
+        "props": {
+            "src": "https://i.ibb.co/P9PMdkv/shampoo.webp",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-2": {
+        "props": {
+            "src": "https://i.ibb.co/JKq8G4C/nivea.webp",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-3": {
+        "props": {
+            "src": "https://i.ibb.co/R9BjQf7/sunscreen.jpg",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-4": {
+        "props": {
+            "src": "https://i.ibb.co/cc6THHn/base.webp",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-5": {
+        "props": {
+            "src": "https://i.ibb.co/F4TwL5G/pa-ales.webp",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-6": {
+        "props": {
+            "src": "https://i.ibb.co/LQMcy2c/asepxia.webp",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-7": {
+        "props": {
+            "src": "https://i.ibb.co/Ry1mBJD/colgate.jpg",
+            "maxHeight": 100
+        }
+    },
+    "image#imagen-8": {
+        "props": {
+            "src": "https://i.ibb.co/nPGDRpH/esmalte.webp",
+            "maxHeight": 100
+        }
+    }
+}

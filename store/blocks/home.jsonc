@@ -1,15 +1,26 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text"
+      "flex-layout.row#promesas-de-valor","flex-layout.row#categorias"
     ]
   },
-  "rich-text": { 
-    "props": { 
-      "text": "VTEX Store Framework",
-      "textAlignment": "CENTER",
-      "textPosition": "CENTER",
-      "font": "t-heading-1"
+  "flex-layout.row#promesas-de-valor": {
+    "children": [
+      "flex-layout.col#promesa-1","flex-layout.col#promesa-2",
+      "flex-layout.col#promesa-3","flex-layout.col#promesa-4",
+      "flex-layout.col#promesa-5"
+    ],
+    "props": {
+      "blockClass": "promesas-de-valor"
     }
+  },
+  "flex-layout.row#categorias": {
+    "children": [
+      "flex-layout.col#subtitulo","flex-layout.col#categoria-1",
+      "flex-layout.col#categoria-2","flex-layout.col#categoria-3",
+      "flex-layout.col#categoria-4","flex-layout.col#categoria-5",
+      "flex-layout.col#categoria-6","flex-layout.col#categoria-7",
+      "flex-layout.col#categoria-8"
+    ]
   }
 }

@@ -1,0 +1,18 @@
+.flexRowContent--promesas-de-valor{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.stretchChildrenWidth{
+    justify-content: right;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.flexColChild{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.flexColChild--subtitulo :global(.vtex-rich-text-0-x-container){
+ padding-bottom: 0%;
+ height: 15px;
+}
