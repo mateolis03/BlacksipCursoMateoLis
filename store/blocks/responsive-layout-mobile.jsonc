@@ -1,0 +1,76 @@
+{
+    "responsive-layout.mobile#mobile":{
+        "children": [
+            "image#mobile",
+            "rich-text#titulo",
+            "rich-text#desc",
+            "flex-layout.row#divider"
+
+
+        ]
+    },
+    "flex-layout.row#divider": {
+        "children": [
+            "flex-layout.col#caracteristicas-mobile" 
+        ]
+    },
+    "image#mobile": {
+        "props": {
+            "src": "https://i.imgur.com/g4HOOrr.jpg"
+        }
+    },
+    "flex-layout.col#caracteristicas-mobile": {
+        "children": [
+            "flex-layout.row#caracteristicas-mobile-left",
+            "flex-layout.row#caracteristicas-mobile-right"
+        ],
+        "props": {
+            "blockClass":"column"
+        }
+    },
+    "flex-layout.row#caracteristicas-mobile-left":{
+        "children": [
+            "flex-layout.col#col-11",
+            "flex-layout.col#col-22",
+            "flex-layout.col#col-33"
+        ]
+    },
+    "flex-layout.row#caracteristicas-mobile-right":{
+        "children": [
+            "flex-layout.col#col-44",
+            "flex-layout.col#col-55",
+            "flex-layout.col#col-66"
+        ]
+    },
+    "flex-layout.col#col-11": {
+        "children": [
+            "image#img-1","rich-text#text-1"
+        ]
+        },
+        "flex-layout.col#col-22": {
+            "children": [
+                "image#img-2","rich-text#text-2"
+            ]
+            },
+        "flex-layout.col#col-33": {
+        "children": [
+            "image#img-3","rich-text#text-3"
+        ]
+        },
+        "flex-layout.col#col-44": {
+            "children": [
+                "image#img-4","rich-text#text-4"
+            ]
+        },
+        "flex-layout.col#col-55": {
+            "children": [
+                "image#img-5","rich-text#text-5"
+            ]
+        },
+        "flex-layout.col#col-66": {
+            "children": [
+                "image#img-6","rich-text#text-6"
+            ]
+        }
+
+}
