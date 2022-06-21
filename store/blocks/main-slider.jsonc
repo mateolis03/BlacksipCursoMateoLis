@@ -1,0 +1,63 @@
+{
+    "list-context.image-list#main-slider":{
+        "title": "Carrusel - Image List",
+        "children": [
+            "slider-layout#main-slider"
+        ],
+        "props": {
+            "height": 650,
+            "preload": true,
+            "images": [{
+                "image": "https://i.imgur.com/oY7YEDM.jpg",
+                "link":{
+                    "url": "/categoria-1"
+                }
+            },
+            {
+                "image": "https://i.imgur.com/oY7YEDM.jpg",
+                "link": {
+                    "url": "/categoria-2"
+                }
+            },
+            {
+                "image": "https://i.imgur.com/oY7YEDM.jpg",
+                "link": {
+                    "url": "/categoria-3"
+                }
+            }
+        ],
+        "openNewTab":false
+        }
+    },
+    "slider-layout#main-slider": {
+        "props": {
+            "itemsPerPage": 1,
+            "autoplay": {
+                "timeout": 3500
+            }
+        },
+        "children": [
+            "link#product-page"
+        ]
+
+    },
+    "video#background": {
+        "props": {
+          "width": "1220px",
+          "height": "422px",
+          "loop": false,
+          "autoPlay": true,
+          "muted": false,
+          "src": "https://www.youtube.com/watch?v=lH3d69sbvX4&ab_channel=BadBunny",
+          "blockClass": "videoEl"
+        }
+      },
+      "link#product-page": {
+        "props": {
+          "href": "/video-prueba"
+        },
+        "children": [
+            "video#background"
+        ]
+}
+}
